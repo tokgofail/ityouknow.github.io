@@ -59,8 +59,8 @@ css: ['sidebar-post-nav.css']
 {% if site.comments.gitalk %}
 	<script>
 		var gitalk = new Gitalk({
-			  clientID: '{{ site.comments.gitalk_clientID }}',
-			  clientSecret: '{{ site.comments.gitalk_Secret }}',
+			  client_id: '{{ site.comments.gitalk_clientID }}',
+			  client_secret: '{{ site.comments.gitalk_Secret }}',
 			  repo: '{{ site.comments.gitalk_repo }}',
 			  owner: '{{ site.comments.gitalk_owner }}',
 			  admin: '{{ site.comments.gitalk_admin }}',
