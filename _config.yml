@@ -253,8 +253,8 @@ comments:
       owner: 'tokgofail'
       admin: 'tokgofail'
       repo: 'tokgofail.github.io'
-      clientID: 'd7d7db7aa34a71b5e251'
-      clientSecret: '0c8e114136b5b7feec9085339ae0d65982f50c51'
+      clientID: 'ccf70fd8ec59fc943177'
+      clientSecret: 'dd11af55e829a963ba99550a7db80ef05d640f44'
       distractionFreeMode: true
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
