@@ -250,11 +250,11 @@ comments:
           client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
   # https://github.com/gitalk/gitalk#install
   gitalk: true
-      clientID: ccf70fd8ec59fc943177
-      clientSecret: dd11af55e829a963ba99550a7db80ef05d640f44
-      repo: tokgofail.github.io
-      owner: tokgofail
-      admin: tokgofail
-      distractionFreeMode: true
+    clientID: ccf70fd8ec59fc943177
+    clientSecret: dd11af55e829a963ba99550a7db80ef05d640f44
+    repo: tokgofail.github.io
+    owner: tokgofail
+    admin: tokgofail
+    distractionFreeMode: true
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
