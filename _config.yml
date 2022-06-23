@@ -251,7 +251,7 @@ comments:
   # https://github.com/gitalk/gitalk#install
   gitalk: true
   gitalk_clientID: 'ccf70fd8ec59fc943177'
-  gitalk_Secret: 'dd11af55e829a963ba99550a7db80ef05d640f44'
+  gitalk_secret: 'dd11af55e829a963ba99550a7db80ef05d640f44'
   gitalk_repo: 'tokgofail.github.io'
   gitalk_owner: 'tokgofail'
   gitalk_admin: 'tokgofail'
