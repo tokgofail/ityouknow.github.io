@@ -251,7 +251,8 @@ comments:
   # https://github.com/gitalk/gitalk#install
   gitalk: true
       owner: tokgofail
-      repo: lovec.xyz
+      admin: tokgofail
+      repo: tokgofail.github.io
       clientID: d7d7db7aa34a71b5e251
       clientSecret: 0c8e114136b5b7feec9085339ae0d65982f50c51
       distractionFreeMode: true
