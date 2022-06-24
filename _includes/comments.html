@@ -85,7 +85,7 @@
         <script>
         var gitalk = new Gitalk({
             id: md5(window.location.pathname),
-            clientID: '{{ site.gitalk.clientID }}',
+            client_id: '{{ site.gitalk.clientID }}',
             clientSecret: '{{ site.gitalk.clientSecret }}',
             repo: '{{ site.gitalk.repo }}',
             owner: '{{ site.gitalk.owner }}',
