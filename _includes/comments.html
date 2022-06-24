@@ -85,11 +85,11 @@
         <script>
         var gitalk = new Gitalk({
             id: md5(window.location.pathname),
-            clientID: '{{ site.gitalk_clientID }}',
-            clientSecret: '{{ site.gitalk_clientSecret }}',
-            repo: '{{ site.gitalk_repo }}',
-            owner: '{{ site.gitalk_owner }}',
-            admin: ['{{ site.gitalk_owner }}'],
+            clientID: '{{ site.gitalk.clientID }}',
+            clientSecret: '{{ site.gitalk.clientSecret }}',
+            repo: '{{ site.gitalk.repo }}',
+            owner: '{{ site.gitalk.owner }}',
+            admin: ['{{ site.gitalk.owner }}'],
             labels: ['gitment'],
             perPage: 50,
         })
