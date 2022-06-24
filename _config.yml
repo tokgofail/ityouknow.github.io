@@ -251,7 +251,7 @@ gitment:
 gitalk:
     repo: loveC.github.io
     owner: tokgofail
-    clientId: ccf70fd8ec59fc943177
+    clientID: ccf70fd8ec59fc943177
     clientSecret: dd11af55e829a963ba99550a7db80ef05d640f44
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
